@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 
 venue: "Lundquist College of Business"
-date: 09-30-2018
+date: 2018-09-09
 location: "Eugene, Oregon"
 ---
 
