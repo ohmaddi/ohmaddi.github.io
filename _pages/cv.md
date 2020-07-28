@@ -23,7 +23,7 @@ Education
   * Advisors: Loubna Benabbou & Ghita Laalami (Director at Deloitte Enterprise Risk Services)
 * Classes Préparatoires aux Grandes Écoles, Mathematics and Physics, Lycee Moulay Youssef 2010
 
-Publication and work underprogress
+Publication and work under progress
 ======
 
 Published Papers
