@@ -12,18 +12,16 @@ I am a doctoral candidate at the Lundquist College of Business. I received my B.
 
 Areas of interest 
 ======
-Entrepreneurship economics 
-Strategy 
-Experimental methods 
-Distressed  economies 
-Develiping economies
-
-
+* Entrepreneurship economics 
+* Strategy 
+* Experimentation 
+* Distressed  economies 
+* Develiping economies
 
 Geographies 
 ======
-North Africa
-United States 
+* North Africa
+* United States 
 
 
 
