@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ouafaa Hmaddi"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,20 @@ redirect_from:
 
 I am a doctoral candidate at the Lundquist College of Business. I received my B.S. in Industrial Engineering from Ecole Mohammadia d’Ingenieurs and MPA from Cornell University as a Fulbright Scholar. My research lies in the intersection of strategy and entrepreneurship economics. Using experimental and quasi-experimental approaches, I investigate the different mechanisms used by intermediaries that finance and support early stage ventures. I also draw upon large-scale data to examine different aspects of the geography of entrepreneurship. My projects are based in a range of contexts including public finding programs, startup acceleration programs, and crowdfunding. 
 
-Getting started
+Areas of interest 
 ======
-1. Re
-[this Github repository](https://github.com/staeiou/staeiou.github.io)
+Entrepreneurship economics 
+Strategy 
+Experimental methods 
+Distressed  economies 
+Develiping economies
 
-Site-wide configuration
-------
-The main 
+
+
+Geographies 
+======
+North Africa
+United States 
+
 
 
