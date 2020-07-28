@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://ohmaddi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "ohmaddi/ohmaddi.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "ohmaddi/ohmaddi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ouafaa (Wa-fa)"
-  avatar           : "bio-photo.jpg"
-  bio              : "Research Interests: ....."
-  location         : "Washington, DC"
+  avatar           : "bio-headshot.JPG"
+  bio              : ""
+  location         : "Washington, DC | Eugene, OR | Rabat, Morocco"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=orZCNLAAAAAJ&hl=en"
