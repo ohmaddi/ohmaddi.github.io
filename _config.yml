@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ouafaa (Wa-fa)"
-  avatar           : "blob/master/images/bio-headshot.jpg"
+  avatar           : "images/bio-headshot.jpg"
   bio              : ""
   location         : "Washington, DC | Rabat, Morocco"
   employer         :
