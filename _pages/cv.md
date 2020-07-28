@@ -26,8 +26,9 @@ Classes Préparatoires aux Grandes Écoles, Mathematics and Physics, Lycee Moula
 
 PUBLICATIONS AND ARTICLES IN PREPARATION
 ======
+
 Published Papers
------------------------
+-------------
 * Hmaddi O. Empowered Policy: Evidence of Sustainable, Accessible, and Affordable Energy Resources, *Cornell Policy Review, November 2016
 * Contributed to Rauchs M., Blandin A., Klein K., Pieters G., Recanatini M., and Zhang B. The second edition of the Global Cryptoasset Benchmarking Study, *Cambridge Center for Alternative Finance, Cambridge Judge Business School, December 2018
 
