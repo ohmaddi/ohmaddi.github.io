@@ -43,7 +43,7 @@ Work in Progress
 * Hmaddi O., Younkin P., Lanahan L. “The Mechanisms of Acceleration: A Randomized Control Experiment” *Pilot RCT*
 * Hmaddi O. “The Effect of Public vs. Private Certification on Ventures’ Learning Behavior” *RCT design*
 
-Dormant Papers 
+Dormant Projects
 -----------
 * Lanahan L., Armanios D. & Hmaddi O. “Entrepreneurship and Inequality: Simulating Macro-Level Effects from Micro-Level Observations” *Data analysis*
 * Hmaddi O. “The complementor-platform owner relationship through the lenses of property rights and transaction costs economics” *Data Collection*
