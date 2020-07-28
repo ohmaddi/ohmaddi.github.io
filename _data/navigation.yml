@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Publications & Work Under Review"
-    url: /publications/
-
-  - title: "Conferences"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Publications"
+    url: /publications/ 
     
   - title: "CV"
     url: /cv/
