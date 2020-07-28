@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+Education
 ======
 * Ph.D. Candidate, Strategy and Management, University of Oregon, 2022 (expected)
   * Dissertation Chair: Andrew Nelson; 
@@ -23,7 +23,7 @@ EDUCATION
   * Advisors: Loubna Benabbou & Ghita Laalami (Director at Deloitte Enterprise Risk Services)
 * Classes Préparatoires aux Grandes Écoles, Mathematics and Physics, Lycee Moulay Youssef 2010
 
-PUBLICATIONS AND ARTICLES IN PREPARATION
+Publication and work underprogress
 ======
 
 Published Papers
@@ -48,7 +48,7 @@ Dormant Projects
 * Lanahan L., Armanios D. & Hmaddi O. “Entrepreneurship and Inequality: Simulating Macro-Level Effects from Micro-Level Observations” *Data analysis*
 * Hmaddi O. “The complementor-platform owner relationship through the lenses of property rights and transaction costs economics” *Data Collection*
 
-CONFERENCE PRESENTATIONS
+Presentations
 =========
 
 2020
@@ -73,7 +73,7 @@ CONFERENCE PRESENTATIONS
 * Paper presenter: “The complementor-platform owner relationship through the lenses of property rights and transaction costs economics” 
   * Western Academy of Management, Santa Rosa, CA
 
-WORKSHOPS AND CONSORTIA
+Workshops and consortia
 ==============
 * NBER Entrepreneurship Research Boot Camp, Virtual, 2020
 * Virtual STR Doctoral Consortium, 2020
@@ -82,7 +82,7 @@ WORKSHOPS AND CONSORTIA
 * Alberta Workshop on Data Analytics, Edmonton, Alberta, Canada, 2019
 * West Coast Research Symposium Doctoral Student Consortium. Seattle, WA, 2018
 
-FELLOWSHIPS, GRANTS, AND SCHOLARSHIPS
+Fellowships, Grants, and scholarships
 ============
 * Research Grant by the John and Emiko Kageyama Endowment Fund, with Lauren Lanahn ($5500), 2018-2020
 * First Year Fellowship Award Academic Year, University of Oregon ($19,000), 2017-2018
@@ -90,14 +90,14 @@ FELLOWSHIPS, GRANTS, AND SCHOLARSHIPS
 * Fulbright Scholarship ($120,000), 2015-2017
 * Environmental Defense Fund Climate Corps Fellowship ($12,500), 2016
 
-ACADEMIC COMMUNITY SERVICE
+Academic service
 =====================
 * Academy of Management Reviewer, 2020-present
 * Reviewer for the Academy of Management Annual Meeting (ENT, OMT and STR divisions), 2018-present
 * Paper Discussant WINDS, Philadelphia PA, 2019
 * Reviewer Western Academy of Management Annual Meeting, 2019
 
-TEACHING EXPERIENCE
+Teaching experience
 =================
 * BA 453 Business Strategy and Planning, *Instructor (4 sections)*, Spring & Summer 2020
 * MGMT 335 Launching New Ventures, *Teaching Assistant*, Fall 2019  
@@ -105,7 +105,7 @@ TEACHING EXPERIENCE
 * BA 316 Principles of Management and Strategy, *Instructor*, Fall 2018
 
 
-INDUSTRY EXPERIENCE
+Industry experience
 ======
 * Summer 2018: Cambridge Centre for Alternative Finance
   * Research Assistant
@@ -127,7 +127,7 @@ INDUSTRY EXPERIENCE
 
 * 2010-2013: Reserve Officer, Forces Armées Royales Marocaines – Morocco 
 
-SKILLS
+Skills
 ======
 * Languages
   * English, French, Arabic, and Darija (Moroccan arabic), *native fluency* 
@@ -141,6 +141,6 @@ SKILLS
   * Python
   * SPSS
   
-SOME INTERESTS
+Some interests
 ======
 * Hiking (Hiked Toubkal 3 times), Backpacking, Climbing, Trail running, Literature, and Arabic Poetry. 
