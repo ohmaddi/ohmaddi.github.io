@@ -82,11 +82,11 @@ WORKSHOPS AND CONSORTIA
 * Alberta Workshop on Data Analytics, Edmonton, Alberta, Canada, 2019
 * West Coast Research Symposium Doctoral Student Consortium. Seattle, WA, 2018
 
-MAJOR FELLOWSHIPS, GRANTS, AND SCHOLARSHIPS
+FELLOWSHIPS, GRANTS, AND SCHOLARSHIPS
 ============
 * Research Grant by the John and Emiko Kageyama Endowment Fund, with Lauren Lanahn ($5500), 2018-2020
 * First Year Fellowship Award Academic Year, University of Oregon ($19,000), 2017-2018
-* Lundquist College of Business Ph.D. Summer Scholarship , 2017-2022
+* Lundquist College of Business Ph.D. Summer Scholarship ($25,000) , 2017-2022
 * Fulbright Scholarship ($120,000), 2015-2017
 * Environmental Defense Fund Climate Corps Fellowship ($12,500), 2016
 
@@ -114,8 +114,7 @@ INDUSTRY EXPERIENCE
   * [Project: NYC Open Data Policy](http://edfclimatecorps.net/engagement/new-york-city-housing-authority-ouafaa-hmaddi-2016)
 
 * 2016-2017: Ithaca Start-Up Works – Ithaca, N.Y.
-  * Cornell University
-  * Graduate Research Assistant 
+  * Graduate Research Assistant, Cornell University
 
 * 2012-2015: Deloitte. – Casablanca, Morocco 
   * Consultant, Enterprise Risk Services
