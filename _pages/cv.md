@@ -18,7 +18,7 @@ EDUCATION
 * MPA with honors (Pi Alpha Alpha), Cornell University, 2017
   * Thesis: Quality of Disclosure on Material Topics in Mandatory and Voluntary Reports
   * Advisor: Glen W. Dowell
-* B.S. with honors Industrial Engineering, École Mohammadia d’Ingenieurs, 2013 
+* B.S. with honors in Industrial Engineering, École Mohammadia d’Ingenieurs, 2013 
   * Thesis: Risk Management & Internal Auditing
   * Advisors: Loubna Benabbou & Ghita Laalami (Director at Deloitte Enterprise Risk Services)
 * Classes Préparatoires aux Grandes Écoles, Mathematics and Physics, Lycee Moulay Youssef 2010
@@ -28,8 +28,8 @@ PUBLICATIONS AND ARTICLES IN PREPARATION
 
 Published Papers
 -------------
-* Hmaddi O. Empowered Policy: Evidence of Sustainable, Accessible, and Affordable Energy Resources, *Cornell Policy Review*, November 2016
-* Contributed to Rauchs M., Blandin A., Klein K., Pieters G., Recanatini M., and Zhang B. The second edition of the Global Cryptoasset Benchmarking Study, *Cambridge Center for Alternative Finance, Cambridge Judge Business School*, December 2018
+* Hmaddi O. [Empowered Policy: Evidence of Sustainable, Accessible, and Affordable Energy Resources](http://www.cornellpolicyreview.com/empowered-policy-evidence-of-sustainable-accessible-and-affordable-energy-resources/), *Cornell Policy Review*, November 2016
+* Contributed to Rauchs M., Blandin A., Klein K., Pieters G., Recanatini M., and Zhang B. [The second edition of the Global Cryptoasset Benchmarking Study](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-09-ccaf-2nd-global-cryptoasset-benchmarking.pdf), *Cambridge Center for Alternative Finance, Cambridge Judge Business School*, December 2018
 
 Under Review 
 ---------
@@ -107,6 +107,8 @@ TEACHING EXPERIENCE
 
 INDUSTRY EXPERIENCE
 ======
+* Summer 2018: Cambridge Centre for Alternative Finance
+  * Research Assistant
 * Summer 2016: Environmental Defense Fund – New York, N.Y. 
   * EDF Climate Corps Fellow 
   * [Project: NYC Open Data Policy](http://edfclimatecorps.net/engagement/new-york-city-housing-authority-ouafaa-hmaddi-2016)
@@ -131,7 +133,7 @@ SKILLS
 * Languages
   * English, French, Arabic, and Darija (Moroccan arabic), *native fluency* 
   * Italian, *intermediate*
-  * Imazighen and Spanish, *Basic*
+  * Imazighen and Spanish, *basic*
 
 * Programing Languages 
   * R
