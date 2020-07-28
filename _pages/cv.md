@@ -51,8 +51,9 @@ Dormant Papers
 
 CONFERENCE PRESENTATIONS
 =========
+
 2020
-----
+---
 * Workshop Instructor: “Introduction to R Markdown” 
 [R Cascadia Conference] (https://cascadiarconf.com/speakers/workshop/), Eugene, OR *(canceled due to COVID-19)
 
