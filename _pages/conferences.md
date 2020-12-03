@@ -15,7 +15,7 @@ author_profile: true
   * Virtual AOM (presented by Joshi A.) 
 
 * Paper presenter: “Experimenting and failing as means to success”
-  * [HBS Digital Initiative] https://digital.hbs.edu/events/experimenting-and-failing-as-means-to-success/
+  * [HBS Digital Initiative](https://digital.hbs.edu/events/experimenting-and-failing-as-means-to-success/)
   * [SMS Virtual Berkeley: Best Paper Prize Session](https://www.strategicmanagement.net/berkeley/overview/virtual)
   * SMS Annual Conference Virtual
   * [Virtual Three Minute Thesis Competition](https://gradforum.uoregon.edu/participants/) – Honorable mention
