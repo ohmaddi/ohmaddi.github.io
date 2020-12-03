@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* CCC Visiting Doctoral Candidate, Strategy, Rotman School of Management, 2020-2021
 * Ph.D. Candidate, Strategy and Management, University of Oregon, 2022 (expected)
   * Dissertation Chair: Andrew Nelson; 
   * Committee: Lauren Lanahan, Peter Younkin, and Saurabh Lall.
@@ -26,22 +27,23 @@ Education
 Publication and work under progress
 ======
 
-Published Papers
+Published Work
 -------------
 * Hmaddi O. [Empowered Policy: Evidence of Sustainable, Accessible, and Affordable Energy Resources](http://www.cornellpolicyreview.com/empowered-policy-evidence-of-sustainable-accessible-and-affordable-energy-resources/), *Cornell Policy Review*, November 2016
 * Contributed to Rauchs M., Blandin A., Klein K., Pieters G., Recanatini M., and Zhang B. [The second edition of the Global Cryptoasset Benchmarking Study](https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2019-09-ccaf-2nd-global-cryptoasset-benchmarking.pdf), *Cambridge Center for Alternative Finance, Cambridge Judge Business School*, December 2018
 
 Under Review 
 ---------
-* Hmaddi O. and Lanahan L. “Experimenting and failing as means to success: Examining the tension of complementarity and substitution with improved measures of entrepreneurial activity” *Rejected by AMD and Preparing for submission to Small Business Economics*
+* Hmaddi O. and Lanahan L. “Experimenting and failing as means to success: Examining the tension of complementarity and substitution with improved measures of entrepreneurial activity” *Under Review at Journal of Business Venturing*
   * nominated for Best Paper Prize at SMS Berkley Special Conference 2020 and Annual SMS 2020
-* Joshi A., Lanahan L. & Hmaddi O. “On the Right Tract: How Location and Certification Affect the Performance of High-Tech Firms in Distressed Neighborhoods” *Under Review at SEJ*
+* Joshi A., Lanahan L. & Hmaddi O. “On the Right Tract: How Location and Certification Affect the Performance of High-Tech Firms in Distressed Neighborhoods” *Under Review at Research Policy*
 
 Work in Progress 
 -----------
 * Hmaddi O. “An institutional approach to attention allocation and venture performance ” *Data Analysis*
 * Hmaddi O., Younkin P., Lanahan L. “The Mechanisms of Acceleration: A Randomized Control Experiment” *Pilot RCT*
 * Hmaddi O. “The Effect of Public vs. Private Certification on Ventures’ Learning Behavior” *RCT design*
+* Anderson D., Cullen B. and Hmaddi O. [“Social Data Science with R”](https://www.sds.pub/)
 
 Dormant Projects
 -----------
@@ -58,9 +60,10 @@ Presentations
 
 * Paper presenter: “Exploring the Microgeography of Competitive Advantage: An Analysis of Small High-Tech Ventures in Economically Distressed Areas, 2000-2017”
   * SMS Berkley Special Conference, Berkley, CA *(canceled due to COVID-19)* 
-  * Virtual AOM (presented by Joshi A.) (Link will be available soon)
+  * Virtual AOM (presented by Joshi A.) 
 
 * Paper presenter: “Explaining the tension of substitution versus complementarity through an improved measure of local entrepreneurial activity”
+  * [HBS Digital Initiative](https://digital.hbs.edu/events/experimenting-and-failing-as-means-to-success/)
   * [SMS Virtual Berkeley: Best Paper Prize Session](https://www.strategicmanagement.net/berkeley/overview/virtual)
   * SMS Annual Conference Virtual
   * [Virtual Three Minute Thesis Competition](https://gradforum.uoregon.edu/participants/) – Honorable mention
@@ -75,6 +78,7 @@ Presentations
 
 Workshops and consortia
 ==============
+* NBER Entrepreneurship Working Group Fall 2020
 * NBER Entrepreneurship Research Boot Camp, Virtual, 2020
 * Virtual STR Doctoral Consortium, 2020
 * Western Academy of Management Doctoral Student Consortium. Santa Rosa, CA, 2019
@@ -92,7 +96,9 @@ Fellowships, Grants, and scholarships
 
 Academic service
 =====================
-* Academy of Management Reviewer, 2020-present
+* SMS Docotoral Students Representative, 2020-present 
+* Reviewer for Academy of Management Journal, 2020-present
+* Reviewer for Academy of Management Review, 2020-present
 * Reviewer for the Academy of Management Annual Meeting (ENT, OMT and STR divisions), 2018-present
 * Paper Discussant WINDS, Philadelphia PA, 2019
 * Reviewer Western Academy of Management Annual Meeting, 2019
