@@ -17,7 +17,7 @@ Work in Progress
 * Hmaddi O. “An institutional approach to attention allocation and venture performance ” *Data Analysis*
 * Hmaddi O. “The Mechanisms of Acceleration: A Randomized Control Experiment” *Pilot RCT*
 * Hmaddi O. “The Effect of Public vs. Private Certification on Ventures’ Learning Behavior” *RCT design*
-* Anderson D., Cullen B. and Hmaddi O. "Social Data Science with R" https://www.sds.pub/
+* Anderson D., Cullen B. and Hmaddi O. ["Social Data Science with R"](https://www.sds.pub/)
 
 Published Work
 -------------
