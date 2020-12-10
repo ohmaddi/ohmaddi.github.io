@@ -8,14 +8,15 @@ author_profile: true
 
 Under Review 
 ---------
-* Hmaddi O. and Lanahan L. “Experimenting and failing as means to success: Examining the tension of complementarity and substitution with improved measures of entrepreneurial activity” *Under Review at Journal of Business Venturing*
+* Hmaddi O. and Lanahan L. “title removed for blind review” *Under Review at Journal of Business Venturing*
   * nominated for Best Paper Prize at SMS Berkley Special Conference 2020 and Annual SMS 2020
-* Joshi A., Lanahan L. & Hmaddi O. “On the Right Tract: How Location and Certification Affect the Performance of High-Tech Firms in Distressed Neighborhoods” *Under Review at Research Policy*
+* Joshi A., Lanahan L. & Hmaddi O. “title removed for blind review” *Reject & Resubmit at *Strategic Management Journal*
 
 Work in Progress 
 -----------
 * Hmaddi O. “An institutional approach to attention allocation and venture performance ” *Data Analysis*
-* Hmaddi O. “The Mechanisms of Acceleration: A Randomized Control Experiment” *Pilot RCT*
+* Hmaddi O. “The impact of early stage resource acquisition in low resource environments on pivoting activity: a randomized field experiment in Morocco.” *Pilot RCT*
+    * Featured in Innovation Growth Lab [Spotlight](https://innovationgrowthlab.org/blog/spotlight-showcasing-new-research-entrepreneurship-innovation-and-science)
 * Hmaddi O. “The Effect of Public vs. Private Certification on Ventures’ Learning Behavior” *RCT design*
 * Anderson D., Cullen B. and Hmaddi O. ["Social Data Science with R"](https://www.sds.pub/)
 
